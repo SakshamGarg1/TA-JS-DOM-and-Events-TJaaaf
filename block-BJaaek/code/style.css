@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.flex{
+    display: flex;
+    
+}
+.box{
+    height: 750px;
+    width: 500px;
+    border: 2px solid black;
+    margin: 55px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    border: 1px solid black;
+    align-items: center;
+    margin: 30%;
+    justify-content: center;
+    /* align */
+}
