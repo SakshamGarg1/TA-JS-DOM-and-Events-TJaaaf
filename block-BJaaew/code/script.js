@@ -17,6 +17,7 @@ input.addEventListener('keyup',(event)=>{
         console.log(event.target.value);
         allMovie.push({
             name: event.target.value,
+            
             watched : false,
         })
     }
